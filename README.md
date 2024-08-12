@@ -13,10 +13,12 @@ During this project, I performed an in-depth analysis of the manufacturing data,
 - **Results Presentation :-**  Delivered actionable insights through SQL queries, offering a clear view of the manufacturing operations.       
 
 ### 📌  Key Insights :-
-1.  **Level Completion Patterns :-**  Analysis reveals that players tend to spend more time on higher levels, indicating a preference for challenging gameplay experiences and a desire to progress through the game's stages.
-2.  **Weapon Preference :-**  Certain weapons may be favored by players based on their effectiveness in different game scenarios, highlighting the importance of balancing weapon attributes to ensure a diverse and engaging gameplay experience.
-3.  **Lives Management :-**  Players demonstrate varying strategies in managing their lives throughout the game, with some opting to conserve lives for challenging stages while others spend them more freely to progress quickly.
-4.  **Seasonal Variation :-**  There may be fluctuations in player activity and engagement based on external factors such as holidays or school vacations, impacting overall gameplay patterns and strategies.
+1.  **Total Manufactured Quantity :-**  86.77 million
+2.  **Rejected Quantity :-**  524.73k (highlighting the need for better quality control)
+3.  **Processed Quantity :-**  86.24 million (indicating potential inefficiencies in processing)
+4.  **Wastage Rate :-**  0.0061% (suggesting room for improvement)
+5.  **Employee Analysis :-**  Shruti Singh had the highest rejected quantities, followed by Ram Ji and Santosh Kumar.
+6.  **Machine Analysis :-**  Machine C007 had the highest rejected quantity, signaling a need for maintenance or recalibration.
 
 ### 🛠️  Tools Used :-
 **◾ MySQL :-**  Analyzed the game dataset and formulated queries to extract meaningful insights.                                    
