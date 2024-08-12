@@ -7,10 +7,10 @@ I'm excited to share the insights and experiences I gained while working on a co
 During this project, I performed an in-depth analysis of the manufacturing data, focusing on key metrics such as **Total Manufactured Quantity,** **Total Rejected Quantity,** **Processed Quantity,** and **Wastage**. I also conducted **employee-wise and machine-wise analyses** to identify patterns and trends that could help optimize the manufacturing process. The tasks involved writing complex SQL queries to extract, aggregate, and analyze data from large datasets. This allowed me to generate precise insights and provide a clear picture of the current manufacturing operations.
 
 ### 📌  Key Steps :-
-**◾ Data Extraction :-**  Queried and retrieved the necessary data from the manufacturing database using SQL.                            
-**◾ Data Aggregation & Transformation :-**  Converted raw data into meaningful metrics, like converting quantities into millions (M) and thousands (K).                                 
-**◾ In-Depth Analysis :-**  Explored relationships between variables, such as employee performance vs. rejection rates and machine efficiency.                                      
-**◾ Results Presentation :-**  Delivered actionable insights through SQL queries, offering a clear view of the manufacturing operations.       
+- **◾ Data Extraction :-**  Queried and retrieved the necessary data from the manufacturing database using SQL.                            
+- **◾ Data Aggregation & Transformation :-**  Converted raw data into meaningful metrics, like converting quantities into millions (M) and thousands (K).                                 
+- **◾ In-Depth Analysis :-**  Explored relationships between variables, such as employee performance vs. rejection rates and machine efficiency.                                      
+- **◾ Results Presentation :-**  Delivered actionable insights through SQL queries, offering a clear view of the manufacturing operations.       
 
 ### 📌  Key Insights :-
 1.  **Level Completion Patterns :-**  Analysis reveals that players tend to spend more time on higher levels, indicating a preference for challenging gameplay experiences and a desire to progress through the game's stages.
