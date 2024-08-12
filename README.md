@@ -25,19 +25,9 @@ During this project, I performed an in-depth analysis of the manufacturing data,
 **◾ PowerPoint :-**  Created a compelling presentation to showcase the project findings.                          
 
 ### 📌 Recommendations :-
-1.  **Level Design Diversity :-**  Introduce a variety of level designs and challenges to cater to different player preferences and skill levels, ensuring a dynamic and engaging gameplay experience for all players.          
-2.  **Weapon Balancing :-**  Continuously monitor player feedback and gameplay data to fine-tune weapon attributes and ensure a balanced and fair gameplay experience that rewards skill and strategy.        
-3.  **Lives System Optimization :-**  Implement a flexible lives system that allows players to earn or replenish lives through in-game achievements or rewards, providing players with a sense of progression and accomplishment.                          
-4.  **Seasonal Events :-**  Introduce seasonal events or special challenges tied to real-world holidays or events to stimulate player engagement and foster a sense of community within the game.         
+1.  **Enhance Quality Control :-**  Reduce rejection rates and improve efficiency by providing targeted training to employees and performing regular maintenance on key machines.
+2.  **Optimize Processing Stage :-**  Align manufactured and processed quantities to minimize wastage.
+3.  **Regular Monitoring :-**  Continuously monitor and analyze data to maintain and improve the manufacturing process.
 
 ## Conclusion :-
-By analyzing gameplay data and uncovering player behaviors and preferences, this project provides valuable insights for optimizing game design and enhancing the overall gaming experience. Implementing the recommended recommendations can lead to increased player satisfaction, improved retention rates, and a more vibrant and active player community within the game.                 
-
-## Presentation Link :-                                         
-https://drive.google.com/file/d/1Jkb28-PMVXYFddWJXSanu-PuWbobWTRS/view?usp=drivesdk
-
-## Source Code :-                                                                            
-https://drive.google.com/file/d/11aqTozl3dX3MnoanA8Mi9Soa0TIOLV5_/view?usp=drivesdk
-
-## Project  PPT :-                                                                   
-https://docs.google.com/presentation/d/1_2G774QUWGNcoiB9-JOXe27_WOUDatBP/edit?usp=drivesdk&ouid=104796686336760154932&rtpof=true&sd=true
+This project was a valuable learning experience, providing me with the opportunity to apply my data analysis skills in a real-world context. The insights gained have the potential to drive significant improvements in the manufacturing process, leading to higher efficiency, reduced costs, and better overall performance. I look forward to taking on more challenges like this in the future, where I can continue to contribute to data-driven decision-making and operational excellence.              
